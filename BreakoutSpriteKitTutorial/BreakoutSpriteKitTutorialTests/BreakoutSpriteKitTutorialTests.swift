@@ -1,15 +1,15 @@
 //
-//  SpriteKitSimpleGameTests.swift
-//  SpriteKitSimpleGameTests
+//  BreakoutSpriteKitTutorialTests.swift
+//  BreakoutSpriteKitTutorialTests
 //
-//  Created by Main Account on 9/30/14.
-//  Copyright (c) 2014 Razeware LLC. All rights reserved.
+//  Created by Zouhair Mahieddine on 4/22/15.
+//  Copyright (c) 2015 Zedenem. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class SpriteKitSimpleGameTests: XCTestCase {
+class BreakoutSpriteKitTutorialTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

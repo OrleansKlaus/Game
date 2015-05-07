@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  SpriteKitSimpleGame
+//  BreakoutSpriteKitTutorial
 //
-//  Created by Main Account on 9/30/14.
-//  Copyright (c) 2014 Razeware LLC. All rights reserved.
+//  Created by Zouhair Mahieddine on 4/22/15.
+//  Copyright (c) 2015 Zedenem. All rights reserved.
 //
 
 import UIKit
