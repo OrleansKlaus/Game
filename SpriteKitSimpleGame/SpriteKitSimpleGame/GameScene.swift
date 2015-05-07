@@ -111,11 +111,11 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
 
     // Create sprite
     let monster = SKSpriteNode(imageNamed: "monster")
-    monster.physicsBody = SKPhysicsBody(rectangleOfSize: monster.size)
-    monster.physicsBody?.dynamic = true
-    monster.physicsBody?.categoryBitMask = PhysicsCategory.Monster
-    monster.physicsBody?.contactTestBitMask = PhysicsCategory.Projectile
-    monster.physicsBody?.collisionBitMask = PhysicsCategory.None
+//    monster.physicsBody = SKPhysicsBody(rectangleOfSize: monster.size)
+//    monster.physicsBody?.dynamic = true
+//    monster.physicsBody?.categoryBitMask = PhysicsCategory.Monster
+//    monster.physicsBody?.contactTestBitMask = PhysicsCategory.Projectile
+//    monster.physicsBody?.collisionBitMask = PhysicsCategory.None
     
     // Determine where to spawn the monster along the Y axis
     let actualY = random(min: monster.size.height/2, max: size.height - monster.size.height/2)
